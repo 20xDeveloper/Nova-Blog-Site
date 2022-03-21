@@ -1,0 +1,49 @@
+
+
+/*carousel section*/
+.splash-container {
+    background-image: url("../img/contactPage/contactSplashHead.jpg");
+    background-size: cover;
+
+    /*background-size: 300px 100px;
+    z-index: 5;*/
+}
+
+.splash-head{
+    border: none;
+
+}
+
+.splash-head{
+    display:none;
+}
+
+.splash-subhead {
+    display: none;
+}
+
+.fa-5x:hover {
+    color: red;
+    transition: 1s;
+
+}
+
+.fa-5x {
+    transition: 1s;
+    color: silver;
+}
+/* ends here */
+
+.contactInfo {
+    padding: 2% 10%;
+    margin-top: 0px;
+
+}
+
+.contactMe{
+    margin-bottom:0px;
+}
+
+.ribbon {
+    background-color: #000000 !important;
+}

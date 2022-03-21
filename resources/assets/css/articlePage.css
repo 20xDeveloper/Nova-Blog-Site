@@ -1,0 +1,213 @@
+
+
+/*carousel section*/
+.splash-container {
+    background-image: url("../img/FArticleSplash.jpg");
+    background-size: cover;
+
+    /*background-size: 300px 100px;
+    z-index: 5;*/
+}
+
+.splash-head{
+    border: none;
+
+}
+
+.splash-head{
+    display:none;
+}
+
+.splash-subhead {
+    display: none;
+}
+
+.fa-5x:hover {
+    color: red;
+    transition: 1s;
+
+}
+
+.fa-5x {
+    transition: 1s;
+    color: silver;
+}
+/* ends here */
+
+/* content section of the page */
+.physicalArticles{
+    background-image: url("../img/articlePage/physicalHealthSymbol.jpeg");
+   background-size: cover;
+    transition: 1s;
+    width: 25%;
+
+}
+.physicalArticles:hover{
+    filter: brightness(150%);
+    transition: 1s;
+
+}
+
+.content{
+    margin-bottom: 20px;
+
+}
+
+.physicalArticles{
+    background-image: url("../img/articlePage/physicalHealthSymbol.jpeg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+}
+.physicalArticles:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.mentalArticles{
+    background-image: url("../img/articlePage/mentalHealthSymbol.jpg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+}
+.mentalArticles:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+
+.spiritualArticles{
+    background-image: url("../img/articlePage/spiritualHealthSymbol.jpeg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+}
+.spiritualArticles:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.lifetipsArticles{
+    background-image: url("../img/articlePage/lifetipsHealthSymbol.jpeg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+}
+.lifetipsArticles:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+/* ends here */
+
+/* resource section styles */
+.resources-head{
+    color: white;
+}
+.improvementPill{
+     background-image: url("../img/articlePage/improvementPill.jpg");
+     background-size: cover;
+     transition: 1s;
+     width: 25%;
+     height: 250px;
+
+ }
+.improvementPill:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.secrets{
+    background-image: url("../img/articlePage/secrets.jpg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+
+}
+.secrets:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.actualize{
+     background-image: url("../img/articlePage/actualize.jpg");
+     background-size: cover;
+     transition: 1s;
+     width: 25%;
+     height: 250px;
+
+ }
+.actualize:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.spiritScience{
+     background-image: url("../img/articlePage/spiritScience.jpg");
+     background-size: cover;
+     transition: 1s;
+     width: 25%;
+     height: 250px;
+
+ }
+.spiritScience:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.anabolicMan{
+    background-image: url("../img/articlePage/anabolicMan.png");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+
+}
+.anabolicMan:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.josh-axe{
+    background-image: url("../img/articlePage/dr-axe.jpg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+
+}
+.josh-axe:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.Seeker{
+    background-image: url("../img/articlePage/seeker.jpg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+
+}
+.Seeker:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+
+.asapScience{
+    background-image: url("../img/articlePage/asapScience.jpg");
+    background-size: cover;
+    transition: 1s;
+    width: 25%;
+    height: 250px;
+
+}
+.asapScience:hover {
+    filter: brightness(150%);
+    transition: 1s;
+}
+/*ends here */

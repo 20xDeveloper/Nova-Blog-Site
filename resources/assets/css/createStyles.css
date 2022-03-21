@@ -1,0 +1,9 @@
+.pure-button-primary{
+    background-color:black !important;
+    transition: 1s;
+
+}
+.pure-button-primary:hover{
+    background-color:red !important;
+    transition: 1s;
+}

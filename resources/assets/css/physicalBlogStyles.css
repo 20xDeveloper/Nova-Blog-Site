@@ -1,0 +1,44 @@
+/*every blog should have these styles */
+.post:hover{
+    background-color: #f2f2f2;
+    transition: 1s;
+}
+
+.post{
+    transition: 1s;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.sidebar{
+    background-image: url("../img/articlePage/physicalHealthSymbol.jpeg");
+    background-size: cover !important;
+}
+
+.pure-button{
+    background-color:black !important;
+    transition: 1s;
+
+}
+.pure-button:hover{
+    background-color:aqua !important;
+    transition: 1s;
+}
+
+#layout > div.sidebar.pure-u-1.pure-u-md-1-4 > div > nav > ul > li:nth-child(5) > a{
+    background-color: red !important;
+}
+
+#layout > div.sidebar.pure-u-1.pure-u-md-1-4 > div > nav > ul > li:nth-child(5) > a:hover{
+    background-color: green !important;
+    transition: 1s;
+}
+
+#border{
+
+
+    border: 1px solid #e6e6e6;
+     padding: 15px;
+}

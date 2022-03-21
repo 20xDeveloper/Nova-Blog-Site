@@ -1,0 +1,25 @@
+/*Home styles*/
+/* carousel picture */
+.splash-container {
+    background-image: url("../img/HomeSplash.jpg");
+    background-size: cover;
+    /*background-size: 300px 100px;
+    z-index: 5;*/
+}
+
+/* Carousel Header border */
+.splash-head{
+    border: none;
+    color: black;
+}
+
+.splash-subhead{
+    color: black;
+}
+
+
+
+.ribbon{
+    background-image: url(../img/aboutBackground.jpg);
+    background-size: cover;
+}
